@@ -27,7 +27,7 @@ function App() {
             }
           ></Route>
           <Route
-            path="/"
+            path="/eshop"
             element={
               <>
                 <Header />
